@@ -37,7 +37,7 @@ gensim==3.4.0
 GitHub-Flask==3.2.0
 gunicorn==19.7.1
 html5lib==1.0.1
-httplib2==0.10.3
+httplib2==0.19.0
 idna==2.6
 ipykernel==4.8.2
 ipython==6.4.0
